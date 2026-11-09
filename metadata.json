@@ -1,0 +1,6 @@
+{
+  "name": "أناقة",
+  "description": "تطبيق تسوق راقي لبيع الملابس الرجالية والنسائية والإكسسوارات الفاخرة مع نظام تصنيفات متكامل وسلة مشتريات ومفضلة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
